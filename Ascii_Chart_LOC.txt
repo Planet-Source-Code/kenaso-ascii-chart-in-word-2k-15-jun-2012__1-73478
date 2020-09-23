@@ -1,0 +1,124 @@
+Count Lines of Code v1.2.231                             14 Jun 2012  06:37 PM
+
+                                Ascii_Chart.vbp
+                        Kenneth Ives  kenaso@tx.rr.com
+------------------------------------------------------------------------------
+
+   VBP Name:  C:\Kens Software\ASCII_Chart\Ascii_Chart.vbp
+
+Module Name:  C:\Kens Software\ASCII_Chart\frmChart.frm
+
+                   2  Sub routines
+                  20  Miscellaneous lines of code
+                  94  Auto generated lines (Not Counted)
+                   4  Blank lines (Not Counted)
+                  24  Comment lines (Not Counted)
+          ----------
+                  22  Module lines of code
+
+Module Name:  C:\Kens Software\ASCII_Chart\frmMain.frm
+
+                   7  Sub routines
+                  42  Miscellaneous lines of code
+                 188  Auto generated lines (Not Counted)
+                  11  Blank lines (Not Counted)
+                  28  Comment lines (Not Counted)
+          ----------
+                  49  Module lines of code
+
+Module Name:  C:\Kens Software\ASCII_Chart\modAsciiConv.bas
+
+                  10  Constant variables
+                   1  Type Structures
+                   5  Sub routines
+                   4  Functions
+                 398  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  29  Blank lines (Not Counted)
+                 116  Comment lines (Not Counted)
+          ----------
+                 418  Module lines of code
+
+Module Name:  C:\Kens Software\ASCII_Chart\modMain.bas
+
+                  10  Constant variables
+                  10  API Declare statements
+                   6  Sub routines
+                  10  Functions
+                 284  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  69  Blank lines (Not Counted)
+                 435  Comment lines (Not Counted)
+          ----------
+                 320  Module lines of code
+
+Module Name:  C:\Kens Software\ASCII_Chart\modManifest.bas
+
+                  21  Constant variables
+                   2  Type Structures
+                   6  API Declare statements
+                   2  Sub routines
+                   2  Functions
+                 117  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  20  Blank lines (Not Counted)
+                 160  Comment lines (Not Counted)
+          ----------
+                 150  Module lines of code
+
+Module Name:  C:\Kens Software\ASCII_Chart\modMessages.bas
+
+                  12  Constant variables
+                   1  Enum Structures
+                   1  Type Structures
+                   8  API Declare statements
+                   2  Sub routines
+                   4  Functions
+                 124  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  29  Blank lines (Not Counted)
+                 259  Comment lines (Not Counted)
+          ----------
+                 152  Module lines of code
+
+Module Name:  C:\Kens Software\ASCII_Chart\modProcesses.bas
+
+                   8  Constant variables
+                   3  Type Structures
+                  12  API Declare statements
+                   3  Sub routines
+                   5  Functions
+                 228  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  43  Blank lines (Not Counted)
+                 263  Comment lines (Not Counted)
+          ----------
+                 259  Module lines of code
+
+Module Name:  C:\Kens Software\ASCII_Chart\modTrimStr.bas
+
+                   1  Constant variables
+                   1  Type Structures
+                   2  API Declare statements
+                   2  Functions
+                  73  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  19  Blank lines (Not Counted)
+                 133  Comment lines (Not Counted)
+          ----------
+                  79  Module lines of code
+
+          ==========
+               1,449  Total number of lines of code
+
+******************************************************************************
+NOTE:     Visual Basic trailers are not counted.  These are the
+          logical ending statements used by proceedural headings.
+
+               End Sub     End Function     End Property
+               End If      End Type         Loop
+               Next        Wend             End With
+               End Select
+******************************************************************************
+
+
